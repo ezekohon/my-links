@@ -7,6 +7,7 @@
 #### Interview resources
 
 - [BigFrontend](https://bigfrontend.dev) BFE.dev is the platform to practice your Front-End development skills
+- [Algorithm patterns](https://levelup.gitconnected.com/become-a-coding-interview-pro-in-2023-with-these-20-must-know-algorithmic-patterns-715643e493f5) How grokking coding interview patterns can help you prepare smartly.
 
 
 
