@@ -16,7 +16,7 @@
 - [Phind](https://www.phind.com/search?home=true) Phind is an AI search engine optimized for technical questions and developers
 
 
-## 🏴‍☠️🏴‍☠️
+## Por ahí 🏴‍☠️🏴‍☠️
 
  - [Champagne Piracy Wiki](https://champagne.pages.dev/)
 
