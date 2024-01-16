@@ -19,3 +19,13 @@
 ## 🏴‍☠️🏴‍☠️
 
  - [Champagne Piracy Wiki](https://champagne.pages.dev/)
+
+
+## Finance
+
+- [Curso Nacho J](https://vimeo.com/569149997)
+
+## Self Improvement
+
+-[The 3 Levels of Self-Awareness](https://markmanson.net/self-awareness)
+-[Zen to Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/)
